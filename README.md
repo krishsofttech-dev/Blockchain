@@ -68,7 +68,7 @@ Key features:
 ---
  
 ### 02. Register Patient Form
-![Register Patient](./screenshots/03-register-patient.png)
+![Register Patient](./screenshots/03-register-patient.jpeg)
 > Admin fills in patient details. On submission, the record is written to the smart contract.
  
 ---
