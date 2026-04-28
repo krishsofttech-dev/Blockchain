@@ -1,0 +1,50 @@
+[
+  {
+    "image": "images/avatar/1.jpg",
+    "name": "Dr. Malithi Fernando",
+    "date": "07 Sep 2025 - 09:45 AM",
+    "message": "Patient records are now securely stored on blockchain. Easy access with full privacy."
+  },
+  {
+    "image": "images/avatar/2.jpg",
+    "name": "Ruwan Perera",
+    "date": "07 Sep 2025 - 10:10 AM",
+    "message": "Booked an online appointment with my doctor in just a few clicks. Very smooth process."
+  },
+  {
+    "image": "images/avatar/3.jpg",
+    "name": "Dr. Arjun Silva",
+    "date": "07 Sep 2025 - 11:30 AM",
+    "message": "The system verifies medicines before adding them, reducing the chance of fake drugs."
+  },
+  {
+    "image": "images/avatar/4.jpg",
+    "name": "Nirosha Jayawardena",
+    "date": "07 Sep 2025 - 01:15 PM",
+    "message": "I can check my child’s vaccination history anytime. This is very helpful for parents."
+  },
+  {
+    "image": "images/avatar/5.jpg",
+    "name": "Colombo Medical Center",
+    "date": "07 Sep 2025 - 02:40 PM",
+    "message": "Decentralized health records allow collaboration between hospitals without delays."
+  },
+  {
+    "image": "",
+    "name": "Dr. Chamara Wickramasinghe",
+    "date": "07 Sep 2025 - 03:05 PM",
+    "message": "Blockchain ensures transparency in patient-doctor interactions. No data tampering possible."
+  },
+  {
+    "image": "",
+    "name": "Galle Pharmacy",
+    "date": "07 Sep 2025 - 04:20 PM",
+    "message": "Medicine inventory is tracked in real-time, avoiding stock-outs and expired drugs."
+  },
+  {
+    "image": "",
+    "name": "Health Service Notification",
+    "date": "07 Sep 2025 - 05:00 PM",
+    "message": "New feature added: Patients can now upload lab reports securely via IPFS."
+  }
+]
